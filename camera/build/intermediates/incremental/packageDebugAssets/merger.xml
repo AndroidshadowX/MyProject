@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\AndroidStudioProjects\MyProject\camera\src\main\assets"><file name="sticker/sticker.txt" path="E:\AndroidStudioProjects\MyProject\camera\src\main\assets\sticker\sticker.txt"/></source><source path="E:\AndroidStudioProjects\MyProject\camera\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\AndroidStudioProjects\MyProject\camera\src\debug\assets"/></dataSet></merger>
