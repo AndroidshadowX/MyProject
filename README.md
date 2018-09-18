@@ -1,2 +1,4 @@
 # MyProject
-retrofit +rxjava +rxbinding结合mvp框架
+kotlin+mvp+retrofit+Rx+gson+okhttp+utils
+#utils
+添加部分常用自定义控件和常用工具类
